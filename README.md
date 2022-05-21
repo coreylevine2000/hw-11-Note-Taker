@@ -26,6 +26,7 @@ Some of the main features in this app are:
 This application was created by Note Taker, and can be found here:
 
 * https://github.com/coreylevine2000/hw-11-Note-Taker
+* https://coreylevine2000.github.io/hw-11-Note-Taker/
 
 And a special Thank You to You!
 
