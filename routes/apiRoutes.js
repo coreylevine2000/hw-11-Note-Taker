@@ -21,8 +21,9 @@ router.post('/notes', (req, res) => {
 });
 
 router.delete('/notes/:id', (req,res) => {
-   const filteredData = readAndDelete(req.params.id, './db/db.json');
-   res.json(filteredData);
+   //const filteredData = // 
+   readAndDelete(req.params.id, './db/db.json');
+   res.json({ ok: true });
 })
 
 module.exports = router;

@@ -43,7 +43,7 @@ const readAndDelete = (id, file) => {
 
         //parsedData.push(content);
         writeToFile(file, filteredData);
-        return filteredData;
+        //return filteredData;
       }
     });
   };  

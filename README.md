@@ -1,7 +1,7 @@
 Note Taker
 
 Issue:
-Hello, and thank you for using Note Taker. Note Taker was created to assist in the issue with organizing notes. This applicaton was created for the primary use by to manage, maintain and delete notes.
+Hello, and thank you for using Note Taker. Note Taker was created to assist in the issue with organizing and taking notes. This applicaton was created for the primary use to manage, maintain and delete notes.
 
 
 Table of Contents:
@@ -10,8 +10,7 @@ Table of Contents:
 - [Features](#features)
 - [Credits](#credits)
 - [License](#license)
-- [Contributions](#contributions)
-- [Test](#test)
+- [Images](#images)
 
 ## Installation:
 For the installation of this program, you will be required to installnothing.
@@ -25,17 +24,17 @@ Some of the main features in this app are:
 ## Credits:
 This application was created by Corey Levine, and can be found here:
 
-* https://github.com/coreylevine2000/hw-11-Note-Taker
+* https://github.com/coreylevine2000/hw-11-Note-Taker (REPO)
 * https://coreylevine2000.github.io/hw-11-Note-Taker/
-* https://damp-retreat-85246.herokuapp.com/
+* https://damp-retreat-85246.herokuapp.com/ (Proper Link for Deployment)
 
 And a special Thank You to You!
 
 ## Licence:
 This app was made with MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributions:
-Any issues you may encounter while using this app, or would like to contribute to its future developement, please contact me at coreylevine2000@gmail.com.
-
-## Test:
-To thoroughly test this application, run 'node index.js' into your GIT, run into a program you may be using instead if applicable.
+## Images:
+![plot](./Assests/Cover.PNG)
+![plot](./Assests/Intro.PNG)
+![plot](./Assests/Use.PNG)
+![plot](./Assests/Delete.PNG)
