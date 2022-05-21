@@ -1,7 +1,7 @@
 Note Taker
 
 Issue:
-Hello, and thank you for using Note Taker. Note Taker was created to assist in the issue with organizing notes. This applicaton was created for the primary use by to manage, maintain and delete notes..
+Hello, and thank you for using Note Taker. Note Taker was created to assist in the issue with organizing notes. This applicaton was created for the primary use by to manage, maintain and delete notes.
 
 
 Table of Contents:
@@ -23,10 +23,11 @@ Some of the main features in this app are:
 *  deleting completed notes and tasks
 
 ## Credits:
-This application was created by Note Taker, and can be found here:
+This application was created by Corey Levine, and can be found here:
 
 * https://github.com/coreylevine2000/hw-11-Note-Taker
 * https://coreylevine2000.github.io/hw-11-Note-Taker/
+* https://damp-retreat-85246.herokuapp.com/
 
 And a special Thank You to You!
 
